@@ -81,6 +81,7 @@
 		F17F65591E6C0B950071496A /* UIView+PKAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+PKAdd.m"; sourceTree = "<group>"; };
 		F17F655A1E6C0B950071496A /* UIViewController+PKAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+PKAdd.h"; sourceTree = "<group>"; };
 		F17F655B1E6C0B950071496A /* UIViewController+PKAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+PKAdd.m"; sourceTree = "<group>"; };
+		F17F65661E6C0EC50071496A /* UIPatchKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UIPatchKit.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +195,7 @@
 				F17F65591E6C0B950071496A /* UIView+PKAdd.m */,
 				F17F655A1E6C0B950071496A /* UIViewController+PKAdd.h */,
 				F17F655B1E6C0B950071496A /* UIViewController+PKAdd.m */,
+				F17F65661E6C0EC50071496A /* UIPatchKit.h */,
 			);
 			path = UIPatchKit;
 			sourceTree = "<group>";
@@ -577,6 +579,7 @@
 				F17F65401E6C0B710071496A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F17F65411E6C0B710071496A /* Build configuration list for PBXNativeTarget "UIPatchKitTests" */ = {
 			isa = XCConfigurationList;
@@ -585,6 +588,7 @@
 				F17F65431E6C0B710071496A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F17F65441E6C0B710071496A /* Build configuration list for PBXNativeTarget "UIPatchKitUITests" */ = {
 			isa = XCConfigurationList;
@@ -593,6 +597,7 @@
 				F17F65461E6C0B710071496A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
